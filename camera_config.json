@@ -1,0 +1,69 @@
+{
+    "Camera1": {
+        "name": "Machine Shop",
+        "zone": "Danger Zone",
+        "helmet": true,
+        "vest": true,
+        "shoes": true,
+        "gloves": false,
+        "restricted": false,
+        "privacy": false,
+        "fire_smoke": false
+    },
+    "Camera2": {
+        "name": "Chemical Storage",
+        "zone": "Restricted Zone",
+        "helmet": true,
+        "vest": false,
+        "shoes": false,
+        "gloves": true,
+        "restricted": true,
+        "privacy": false,
+        "fire_smoke": false
+    },
+    "Camera3": {
+        "name": "Warehouse",
+        "zone": "Safe Zone",
+        "helmet": false,
+        "vest": false,
+        "shoes": false,
+        "gloves": false,
+        "restricted": false,
+        "privacy": false,
+        "fire_smoke": false,
+        "forklift_monitoring": true
+    },
+    "Camera4": {
+        "name": "Loading Bay",
+        "zone": "Safe Zone",
+        "helmet": true,
+        "vest": true,
+        "shoes": false,
+        "gloves": false,
+        "restricted": false,
+        "privacy": false,
+        "fire_smoke": false
+    },
+    "Camera5": {
+        "name": "Locker Room",
+        "zone": "Privacy Zone",
+        "helmet": false,
+        "vest": false,
+        "shoes": false,
+        "gloves": false,
+        "restricted": false,
+        "privacy": true,
+        "fire_smoke": false
+    },
+    "Camera6": {
+        "name": "Office",
+        "zone": "Office Zone",
+        "helmet": false,
+        "vest": false,
+        "shoes": false,
+        "gloves": false,
+        "restricted": false,
+        "privacy": false,
+        "fire_smoke": true
+    }
+}
